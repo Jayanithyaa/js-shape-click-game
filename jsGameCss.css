@@ -1,0 +1,16 @@
+/* CSS file for styling the game */
+body{
+    background-color: rgb(237, 242, 242);
+}
+
+#shape{
+    background-color: green;
+    display: none;
+    position: relative;
+}
+
+p{
+    font-size: 30px;
+    text-align:center;
+    font-weight: bolder;
+}
